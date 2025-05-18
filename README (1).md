@@ -54,35 +54,6 @@ This project is a face recognition-based voting system developed using Python. I
 3. **Admin Interface**:
     - Admins can manage voter registrations, monitor voting processes, and tally votes.
 
-## Folder Structure
 
-```
-face-recognition-voting-system/
-│
-├── app.py              # Main application file
-├── models.py           # Database models
-├── static/             # Static files (CSS, JS, images)
-├── templates/          # HTML templates
-├── utils.py            # Utility functions
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and open a pull request to contribute.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-- **Email**: [dharanya004@example.com](mailto:dharanya004@example.com)
-- **LinkedIn**: [Dharanya's LinkedIn](https://www.linkedin.com/in/dharanya004)
-
----
-
-✨ _This project was developed by Dharanya004_ ✨
 
 ```` ▋
